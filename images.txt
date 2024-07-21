@@ -5,7 +5,7 @@ powerjob/powerjob-server:5.0.1-beta
 apache/rocketmq:4.8.0
 apacherocketmq/rocketmq-dashboard:latest
 openjdk:11
-flannel:v0.11.0-amd64
+rancher/rancher:v2.5.17
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
