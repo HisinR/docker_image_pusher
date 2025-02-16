@@ -2,7 +2,7 @@ tjqq/powerjob-server:latest
 rancher/rancher-agent:v2.5.17
 nginx
 nacos/nacos-server:v2.2.0
-seataio/seata-server:2.0.0-slim
+seataio/seata-server:2.2.0-slim
 powerjob/powerjob-server:5.0.1-beta
 apache/rocketmq:4.8.0
 apacherocketmq/rocketmq-dashboard:latest
